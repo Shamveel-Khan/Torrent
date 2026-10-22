@@ -1,0 +1,16 @@
+{
+    "abc.txt": [
+        {
+            "peername": "p1.txt",
+            "ip": "127.0.0.1",
+            "port": 8001
+        }
+    ],
+    "123.txt": [
+        {
+            "peername": "shamveel",
+            "ip": "10.10.10.0",
+            "port": "5005"
+        }
+    ]
+}
